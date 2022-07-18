@@ -1,7 +1,5 @@
 # Tic-Tac-Toe
 This is a game made with HTML, CSS and JavaScript
-# Tic-Tac-Toe
-This is a game made by Html, CSS and JavaScript.
 1. There are three languages used in this game: JS, HTML and CSS.
 2.	There are two containers , one with game name animated and other with six boxes in which the game can be played. 
 3.	First player will be X and second player will be O.     
